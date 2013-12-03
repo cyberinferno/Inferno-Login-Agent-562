@@ -1,0 +1,10 @@
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\bin\Release\Inferno Login Agent 562.exe.config
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\bin\Release\Inferno Login Agent 562.exe
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\bin\Release\Inferno Login Agent 562.pdb
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\Inferno_Login_Agent_562.Main.resources
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\Inferno_Login_Agent_562.Properties.Resources.resources
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\Inferno Login Agent 562.exe
+D:\Projects\Inferno Login Agent 562\Inferno Login Agent 562\obj\x86\Release\Inferno Login Agent 562.pdb
